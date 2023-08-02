@@ -3,10 +3,10 @@
   <h1> Cinnamon Shopping List </h1>
 </div>
 <p align="center">
-  <div align="center">Public Repo for Cinnamon, a shopping list app I developed.</div>
+  <div align="center">Public Repo for Cinnamon, an Android app I developed to maintain and share a shopping list with multiple users/devices.</div>
 </p>
 <p align="center">
-  <div align="center">The app has been unlisted from the play store as I am no longer actively developing it.</div>
+  <div align="center">The app has been unlisted from the play store as I no longer have the time to work on it.</div>
 </p>
 <details open>
   <summary> Features </summary>
