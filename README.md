@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/DevGary/Cinnamon-Public/assets/5429970/b1619075-6b26-49f8-8238-77a88bb0522f" width="8%" height="8%">
+  <img src="https://github.com/DevGary/Cinnamon-Public/assets/5429970/b1619075-6b26-49f8-8238-77a88bb0522f" width="12%" height="12%">
   <h1> Cinnamon Shopping List </h1>
 </div>
 <p align="center">
